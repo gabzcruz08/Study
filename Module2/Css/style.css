@@ -19,6 +19,7 @@ h3 {
     border-left: 1px solid #000;
     font-size: 125%;
     background-color: #ffaa00;
+    overflow: hidden;
 }
 
 h1 {
@@ -31,6 +32,7 @@ p {
     padding: 4%;
     clear: right;
     font-size: 100%;
+    overflow: hidden;
 }
 
 /*Style in large screen*/
